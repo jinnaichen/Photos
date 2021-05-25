@@ -121,9 +121,9 @@
 		B7505697265CA0CB005D8017 /* Photos */ = {
 			isa = PBXGroup;
 			children = (
-				B7505720265CB9BB005D8017 /* Model */,
-				B750571F265CB9AF005D8017 /* View */,
 				B7505698265CA0CB005D8017 /* AppDelegate.swift */,
+				B7505726265CBA9A005D8017 /* Model */,
+				B7505725265CBA92005D8017 /* View */,
 				B75056D9265CA1A5005D8017 /* ViewController */,
 				B750569E265CA0CB005D8017 /* Main.storyboard */,
 				B75056A1265CA0CB005D8017 /* Assets.xcassets */,
@@ -159,14 +159,14 @@
 			path = ViewController;
 			sourceTree = "<group>";
 		};
-		B750571F265CB9AF005D8017 /* View */ = {
+		B7505725265CBA92005D8017 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		B7505720265CB9BB005D8017 /* Model */ = {
+		B7505726265CBA9A005D8017 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
